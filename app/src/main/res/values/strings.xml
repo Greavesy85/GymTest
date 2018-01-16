@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">GymTest</string>
+    <string name="app_name">GymLogger</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_excersice_info_page">ExcersiceInfoPage</string>
 </resources>
